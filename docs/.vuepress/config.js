@@ -24,6 +24,5 @@ module.exports = {
         link: 'https://github.com/SHERlocked93/progress-catalog'
       }
     ]
-  },
-  markdown: { lineNumbers: true }
+  }
 };

@@ -12,5 +12,7 @@ features:
 meta:
   - name: 目录生成器
     details: 根据h1-h6标签自动生成目录
+  - name: progress-catalog
+    details: Generate a progress catalog by html tag (h1, h2, h3, h4, h5, h6) 😜
 footer: MIT Licensed | Copyright © 2018-present SHERlocked93
 ---

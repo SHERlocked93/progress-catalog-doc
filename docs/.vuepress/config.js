@@ -1,8 +1,8 @@
 module.exports = {
   title: 'progress-catalog',
   port: 9500,
-  base: '/progress-catalog-doc/',
-  dest: 'progress-catalog-doc',
+  base: '/',
+  dest: 'progress-catalog',
   description:
     'Generate a progress catalog by html tag (h1, h2, h3, h4, h5, h6) 😜',
   themeConfig: {
